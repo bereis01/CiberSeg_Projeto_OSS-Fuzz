@@ -1,0 +1,2 @@
+[build-system]
+requires = ["pycryptodome==3.21.0"]
